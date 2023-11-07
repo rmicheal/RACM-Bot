@@ -31,13 +31,13 @@ module.exports = {
         owning: "Micheal R",
     },
     database: {
-        url: "mongodb+srv://EchoNexus:TLg3rPLq83jsGnXp@echonexus-1.pkms6wk.mongodb.net/",
-        name: "EchoNexus-1",
+        url: "mongodb+srv://RACM:uB82k6GHqYhX6V0S@racm-1.tqwjegu.mongodb.net/",
+        name: "RACM-1",
         node: "Node 1",
     },
     host: {
-        node: "Node 1 - EchoNexus",
-        location: "host.echonexus.pro",
+        node: "Node 1 - RACM",
+        location: "host.rmicheal.pro",
     },
     customization: {
         embedColor: "#ffffff",
